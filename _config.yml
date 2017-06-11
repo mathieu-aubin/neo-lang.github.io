@@ -1,0 +1,21 @@
+title: Neo
+email: your-email@domain.com
+description: > 
+  Neo is a simple, elegant, and fast dynamic scripting language.
+baseurl: ""
+url: ""
+twitter_username: sci4me
+github_username:  neo-lang
+
+sass:
+  sass_dir: _sass
+include: ['_pages']
+highlighter: rogue
+markdown: kramdown
+kramdown:
+  input: GFM
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
