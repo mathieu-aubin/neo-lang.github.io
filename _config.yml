@@ -6,6 +6,7 @@ baseurl: ""
 url: ""
 twitter_username: sci4me
 github_username:  neo-lang
+repository: neo-lang/neo-lang.github.io
 
 sass:
   sass_dir: _sass
